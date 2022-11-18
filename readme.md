@@ -26,10 +26,13 @@ ACME Demo é um caso de testes feito utilizando JavaScript + Cypress, que testa 
 ## ⚙ Configuração
 
 1- Instalação:
+<br>
 > npm install -g npm@9.1.2
+<br>
 > npm install cypress --save-dev
+<br>
 > npm install -D @cypress/xpath
-
+<br>
 2- Para iniciar a aplicação:
 > npx cypress open
 
